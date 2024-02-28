@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ThotKeeper</string>
+    <string name="autenticacion">Si mis pensamientos quieres leer, mi corazón y código debes conocer</string>
+    <string name="codigo">Introduce el código</string>
+    <string name="editareliminar">¿Quieres editar o eliminar éste chat?</string>
+    <string name="borrar">Eliminar</string>
+    <string name="editar">Editar</string>
+    <string name="nuevo_nombre">Nuevo nombre</string>
+    <string name="elegir_color">Elige un color para el chat</string>
+
+
+</resources>

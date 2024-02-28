@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ThotKeeper</string>
+    <string name="autenticacion">If my thoughts you wish to read, my heart and code you must know</string>
+    <string name="codigo">Type the code</string>
+    <string name="editareliminar">Do you want to Edit or Delete this chat?</string>
+    <string name="borrar">Delete</string>
+    <string name="editar">Edit</string>
+    <string name="nuevo_nombre">New name</string>
+    <string name="elegir_color">Choose the chat\'s colour</string>
+
+
+</resources>

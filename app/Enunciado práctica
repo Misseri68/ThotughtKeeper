@@ -1,0 +1,34 @@
+INDICACIONES PARA LA REALIZACIÓN DEL PROYECTO
+Con el objetivo de integrar en una única aplicación todos los conocimientos que habéis ido adquiriendo
+en el presente curso, se os pide realizar, de manera individual o en parejas, un proyecto que se ajuste a
+las siguientes especificaciones:
+1. En primer lugar, es una aplicación de uso propio; por lo tanto, no necesita usuario y contraseña.
+Esta funcionalidad la podríais sustituir por una selección del nivel en el que vais a “jugar”
+(suponiendo que fuera un juego) o un formulario para determinar antes de comenzar algunas
+características que marquen de alguna manera el resto de la aplicación.
+2. Una base de datos sqlite que conste de al menos 2 tablas relacionadas entre sí (y un CRUD)
+3. Una o más consultas a esta base de datos con JOIN.
+4. Al menos 2 estilos(STYLE) y Strings únicamente en español.
+5. Al menos 2 actividades y algún fragmento.
+6. Cardviews y ListViews o RecyclerView para mostrar la información que creáis oportuna.
+7. ActionBar siempre que aporte alguna funcionalidad.
+8. Comentarios en español (obligatorio)
+Cubriendo estos 8 puntos adecuadamente tendríais un 8.5 o 9. Para obtener el 10, podéis añadir algún
+elemento o funcionalidad que no hayamos visto en el curso.
+En Internet tenéis una página (m2.material.io/components?platform=android ) que asesora acerca de las
+tendencias actuales de las aplicaciones Web y Android en lo que al diseño se refiere. No obstante, voy a
+tener en cuenta que la mayoría de vosotros os sentís más cómodos en la parte back-end; Por lo tanto, el
+peso de esta última será mayor que la de su homónimo, el front (85-15)
+Algunas ideas por si todavía no se os ocurrió nada:
+• Una aplicación parecida a WORDLE, donde se adivinen palabras con distintos niveles: una
+especie de “ahorcado”.
+• Una aplicación para controlar mi rendimiento físico. Animándome a superarme a mí mismo.
+• Una aplicación para empezar a comer más saludable.
+Como veis, son aplicaciones de ámbito individual: vuestros resultados no se pueden comparar con los
+resultados de otros usuarios. (Os recuerdo que no hemos visto WebService)
+Para que os hagáis una idea, imaginaos que vais rellenando una hoja excel ; a esta información
+almacenada en vuestro disco duro solamente tendríais acceso vosotros. Si necesitaseis filtrar por alguna
+columna, esto sería una consulta a vuestra sqlite, con su correspondiente activity o fragment para
+mostrarlo.
+Os dejo mi correo, por si hubiese dudas:
+ ¡¡Ánimo, que ya queda poquito 😊!!
